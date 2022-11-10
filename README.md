@@ -6,9 +6,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 Screenshot
+![Mobile solution](https://i.imgur.com/ConzaV6.jpg)
+![Desktop solution](https://i.imgur.com/dQMXqNt.jpg)
 
-![Mobile solution](../../../../D:/Ru/Ejercicios/product-preview-card-component-main/images/screenshoot-solution.jpg)
-![Desktop solution](../../../../D:/Ru/Ejercicios/product-preview-card-component-main/images/screemshoot-solution-desktop.jpg)
 
 Built with
 
