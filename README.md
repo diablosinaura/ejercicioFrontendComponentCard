@@ -7,7 +7,7 @@ Users should be able to:
 
 Screenshot
 ![Mobile solution](https://i.imgur.com/ConzaV6.jpg)
-[Desktop solution](https://i.imgur.com/gzXJ4rz.jpg)
+![Desktop solution](https://i.imgur.com/gzXJ4rz.jpg)
 
 
 Built with
